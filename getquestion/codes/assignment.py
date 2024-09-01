@@ -73,4 +73,4 @@ plt.axvline(0, color='black', linewidth=0.5, linestyle='--')
 
 # Show the plot
 plt.show()
-plt.savefig('plot.png')
+plt.savefig('Figure_1.png')
